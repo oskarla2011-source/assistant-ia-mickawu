@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "faq_bonjour",
+    "type": "faq",
+    "question": "Bonjour, comment pouvez-vous m’aider ?",
+    "aliases": [
+      "bonjour",
+      "salut",
+      "hello",
+      "bonsoir",
+      "coucou",
+      "bonjour !"
+    ],
+    "keywords": [
+      "bonjour",
+      "salut",
+      "hello",
+      "aide",
+      "assistant"
+    ],
+    "answer": "Bonjour ! Je suis l’assistant d’information de MW Business, l’accompagnement présenté par Mickaël Wu. Je peux vous expliquer le fonctionnement, le coaching, la création de contenu, la vente, le temps à prévoir, le tarif, la garantie et la réservation d’un appel. Qu’aimeriez-vous savoir ?",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_presentation",
+    "type": "faq",
+    "question": "Qu’est-ce que MW Business ?",
+    "aliases": [
+      "Présentez-moi la formation",
+      "C’est quoi le système Mickaël ?",
+      "Que propose Mickaël Wu ?",
+      "Qu’est-ce que l’accompagnement MW ?",
+      "Je veux comprendre MW Business"
+    ],
+    "keywords": [
+      "mw business",
+      "formation",
+      "accompagnement",
+      "mickael wu",
+      "présentation",
+      "coaching"
+    ],
+    "answer": "MW Business est un accompagnement proposé par Mickaël Wu autour de la création de contenu, du personal branding et du développement d’une activité grâce à l’attraction et à la vente. La formule se distingue d’une simple bibliothèque de vidéos : elle associe un coach principal, des appels individuels, un suivi par WhatsApp, des coachings collectifs et une communauté. La page officielle présente l’objectif de viser 5 000 € de chiffre d’affaires mensuel en 90 jours, sans garantir un revenu : les résultats dépendent notamment du travail, de l’expérience et du marché de chacun.\n\nSite officiel : https://www.mickaelwu.com/",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_domaine",
+    "type": "faq",
+    "question": "Dans quel domaine porte l’accompagnement ?",
+    "aliases": [
+      "Quel métier apprend-on ?",
+      "Est-ce une formation en marketing ?",
+      "Est-ce pour devenir créateur de contenu ?",
+      "Est-ce du personal branding ?"
+    ],
+    "keywords": [
+      "domaine",
+      "activité",
+      "création de contenu",
+      "personal branding",
+      "marketing",
+      "business"
+    ],
+    "answer": "La page officielle présente MW Business comme un accompagnement pour développer une activité à partir de la création de contenu et du personal branding : clarifier son positionnement, définir son avatar client et son offre, créer des contenus qui attirent des prospects, puis progresser dans la prise de contact et la vente. Ce n’est pas présenté comme une formation diplômante dans un métier précis.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_objectif_5000",
+    "type": "faq",
+    "question": "Pourquoi parlez-vous de 5 000 € par mois en 90 jours ?",
+    "aliases": [
+      "Quel est votre objectif ?",
+      "Que signifie 5k par mois ?",
+      "Est-ce que je peux faire 5000 euros ?",
+      "Combien peut-on gagner ?",
+      "Quel résultat promet la formation ?"
+    ],
+    "keywords": [
+      "5000",
+      "5 000",
+      "revenu",
+      "chiffre affaires",
+      "90 jours",
+      "objectif",
+      "gagner",
+      "résultat"
+    ],
+    "answer": "C’est l’objectif mis en avant dans l’accroche du site : le système vise à aider un membre à construire une activité pouvant atteindre 5 000 € de chiffre d’affaires mensuel en 90 jours. Il faut bien distinguer cet objectif commercial d’une garantie de revenu : le site précise que les résultats présentés sont des cas individuels, qu’ils ne sont pas représentatifs de chacun et qu’aucun revenu n’est garanti. La réussite dépend notamment du travail fourni, de l’expérience et du marché visé.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_garantie_revenu",
+    "type": "faq",
+    "question": "Est-ce que les 5 000 € par mois sont garantis ?",
+    "aliases": [
+      "Vous garantissez 5000 euros ?",
+      "Est-ce sûr d’atteindre 5000 € ?",
+      "La formation garantit-elle un revenu ?",
+      "Puis-je être certain de gagner de l’argent ?",
+      "Est-ce une promesse de résultat ?"
+    ],
+    "keywords": [
+      "garantie revenu",
+      "garanti",
+      "5000",
+      "résultat",
+      "revenu",
+      "promesse",
+      "chiffre affaires"
+    ],
+    "answer": "Non. Les 5 000 € par mois en 90 jours sont un objectif présenté sur la page, pas un revenu garanti. Les mentions légales et la page officielle indiquent que les résultats montrés sont individuels, non représentatifs de ce que chaque personne obtiendra, et qu’aucun revenu n’est garanti. Une garantie de remboursement distincte est mentionnée au contrat, sous les conditions qui doivent être lues avant signature.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_pour_qui",
+    "type": "faq",
+    "question": "À qui s’adresse MW Business ?",
+    "aliases": [
+      "Quel est le profil idéal ?",
+      "Est-ce fait pour moi ?",
+      "À qui s’adresse la formation ?",
+      "Est-ce pour les entrepreneurs ?",
+      "Je veux me lancer sur internet, est-ce adapté ?"
+    ],
+    "keywords": [
+      "profil",
+      "public",
+      "entrepreneur",
+      "débutant",
+      "activité",
+      "reconversion",
+      "pour qui"
+    ],
+    "answer": "L’accompagnement s’adresse aux personnes qui veulent développer une activité en travaillant leur positionnement, leur création de contenu et leur capacité à attirer puis convertir des prospects. Le site précise qu’il est possible de partir de zéro. Il faut toutefois être prêt à consacrer du temps chaque jour, appliquer les actions proposées, publier du contenu et demander du feedback lorsque c’est nécessaire. L’adéquation avec votre situation doit être discutée pendant l’appel avant toute décision.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_debutant",
+    "type": "faq",
+    "question": "Je pars de zéro, est-ce un problème ?",
+    "aliases": [
+      "Je suis débutant",
+      "Je n’ai aucune expérience",
+      "Je ne connais rien au marketing",
+      "Je n’ai jamais créé de contenu",
+      "Je débute complètement"
+    ],
+    "keywords": [
+      "zéro",
+      "débutant",
+      "expérience",
+      "débuter",
+      "novice",
+      "aucune expérience"
+    ],
+    "answer": "Non, le site indique que l’accompagnement a été construit pour des personnes qui partent de zéro. Le premier appel doit permettre de clarifier votre point de départ et de poser les étapes dans l’ordre. Vous n’avez pas besoin d’arriver avec une stratégie finalisée : le positionnement, l’avatar et l’offre font partie du travail d’accompagnement.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_experience",
+    "type": "faq",
+    "question": "Faut-il déjà avoir une entreprise ou une offre ?",
+    "aliases": [
+      "Faut-il déjà être entrepreneur ?",
+      "J’ai pas encore d’offre",
+      "Je n’ai pas de société",
+      "Je n’ai pas encore de clients",
+      "Je dois déjà avoir un business ?"
+    ],
+    "keywords": [
+      "entreprise",
+      "société",
+      "offre",
+      "clients",
+      "statut",
+      "déjà entrepreneur"
+    ],
+    "answer": "La page officielle explique que le dossier de départ aide à définir notamment l’avatar, l’offre, le profil et les scripts vidéo. Le rapport TrustWho décrit également un travail de positionnement (domaine, avatar, produit). Cela suggère que l’offre peut être clarifiée pendant le parcours, mais la page publique ne fixe pas de condition universelle sur le statut juridique ou l’existence préalable d’une entreprise. Présentez votre situation pendant l’appel pour vérifier l’adéquation.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_pas_pour_tout_le_monde",
+    "type": "faq",
+    "question": "Est-ce que l’accompagnement convient à tout le monde ?",
+    "aliases": [
+      "Quels sont les profils à éviter ?",
+      "À qui la formation ne convient pas ?",
+      "Est-ce adapté si je manque de temps ?",
+      "Est-ce que c’est pour tout le monde ?"
+    ],
+    "keywords": [
+      "pas adapté",
+      "ne convient pas",
+      "temps",
+      "disponibilité",
+      "timide",
+      "motivation",
+      "discipline"
+    ],
+    "answer": "Non, il demande une implication réelle et régulière. Le site évoque un investissement moyen de 1 à 5 heures par jour chez les membres et insiste sur l’exécution, pas seulement sur la consommation de vidéos. Le rapport TrustWho souligne aussi que les personnes qui ne peuvent travailler que très ponctuellement ou qui n’osent jamais demander de retours risquent de moins profiter du dispositif. Si vous êtes déjà pleinement satisfait de votre situation et ne souhaitez pas la changer, ce n’est peut-être pas le bon accompagnement.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_difference_formation",
+    "type": "faq",
+    "question": "Quelle est la différence avec une formation classique ?",
+    "aliases": [
+      "Pourquoi ce n’est pas une simple formation vidéo ?",
+      "Qu’est-ce qui différencie MW Business ?",
+      "Pourquoi choisir un coaching ?",
+      "Est-ce juste des vidéos ?"
+    ],
+    "keywords": [
+      "différence",
+      "formation classique",
+      "vidéos",
+      "coach",
+      "accompagnement",
+      "suivi"
+    ],
+    "answer": "La différence mise en avant par le site est le suivi de l’exécution. Une formation classique peut surtout fournir des cours à consulter ; MW Business associe le contenu à un coach principal qui connaît votre offre, votre avatar, votre niveau et votre progression, à des appels individuels, à un suivi WhatsApp et à des entraînements pratiques en création de contenu et en closing.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_trois_piliers",
+    "type": "faq",
+    "question": "Quels sont les trois piliers de l’accompagnement ?",
+    "aliases": [
+      "Comment fonctionne le système ?",
+      "Quels sont les piliers ?",
+      "Quelle est la méthode Mickaël ?",
+      "Comment se déroule le programme ?"
+    ],
+    "keywords": [
+      "trois piliers",
+      "méthode",
+      "fonctionnement",
+      "système",
+      "étapes",
+      "contenu",
+      "exécution"
+    ],
+    "answer": "Le site décrit trois piliers :\n\n1. **Savoir quoi faire** : un dossier de départ qui aide à clarifier votre avatar, votre offre, votre profil et vos scripts vidéo.\n2. **Être accompagné dans l’exécution** : un coach principal en one-to-one autant que nécessaire et un suivi WhatsApp personnel au quotidien.\n3. **Apprendre à attirer et vendre** : coaching de création de contenu au moins trois fois par semaine, entraînements de closing et échanges avec le coach closing.\n\nLe Discord et les conférences mensuelles en présentiel complètent cet environnement.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_dossier_10min",
+    "type": "faq",
+    "question": "Que contient le dossier MW Business rempli au début ?",
+    "aliases": [
+      "À quoi sert le dossier ?",
+      "Que dois-je remplir au démarrage ?",
+      "Comment se passe le premier diagnostic ?",
+      "Le dossier prend combien de temps ?"
+    ],
+    "keywords": [
+      "dossier",
+      "10 minutes",
+      "avatar",
+      "profil optimisé",
+      "scripts vidéo",
+      "offre"
+    ],
+    "answer": "Selon la page officielle, le dossier se remplit en environ 10 minutes. Vous renseignez ce que vous savez faire et le travail fait ressortir votre avatar client, votre offre, votre profil optimisé et vos scripts de vidéo. L’objectif est de transformer votre point de départ en premières étapes concrètes, plutôt que de vous laisser deviner par quoi commencer.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_onboarding",
+    "type": "faq",
+    "question": "Comment se déroule le début de l’accompagnement ?",
+    "aliases": [
+      "Que se passe-t-il après l’inscription ?",
+      "Comment se passe l’onboarding ?",
+      "Quel est le premier appel ?",
+      "Par quoi commence-t-on ?"
+    ],
+    "keywords": [
+      "onboarding",
+      "inscription",
+      "premier appel",
+      "démarrage",
+      "accueil",
+      "skool"
+    ],
+    "answer": "La page officielle indique que votre coach cale le rythme avec vous dès le premier appel. Le rapport TrustWho décrit un parcours d’accueil sur Skool avec des tutoriels de plateforme, une réservation du premier appel d’onboarding et une première tâche à réaliser rapidement. Le déroulé exact doit être confirmé au moment de l’inscription, car le contenu de la plateforme peut évoluer.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_positionnement",
+    "type": "faq",
+    "question": "Travaille-t-on le positionnement et le choix de son marché ?",
+    "aliases": [
+      "Aide au choix de niche",
+      "Comment choisir mon domaine ?",
+      "Comment trouver mon avatar client ?",
+      "Est-ce qu’on m’aide à définir mon offre ?"
+    ],
+    "keywords": [
+      "positionnement",
+      "niche",
+      "domaine",
+      "avatar client",
+      "offre",
+      "produit"
+    ],
+    "answer": "Oui. Le dossier de départ vise notamment à clarifier votre avatar et votre offre. Le rapport TrustWho décrit un module de positionnement qui couvre le choix du domaine, l’avatar client et le produit ou l’offre. Le contenu précis et les outils utilisés doivent être confirmés dans l’espace membre actuel.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_creation_contenu",
+    "type": "faq",
+    "question": "Que travaille-t-on en création de contenu ?",
+    "aliases": [
+      "Comment apprendre à faire des vidéos ?",
+      "M’aide-t-on à créer du contenu ?",
+      "Que signifie contenu qui attire ?",
+      "Est-ce que Mickaël corrige mes vidéos ?"
+    ],
+    "keywords": [
+      "création de contenu",
+      "vidéo",
+      "contenu",
+      "scripts",
+      "publier",
+      "attirer",
+      "coaching contenu"
+    ],
+    "answer": "Le site met l’accent sur la création de contenu pour attirer des prospects. Il annonce au moins trois sessions de coaching par semaine avec le coach et Mickaël. Le dossier de départ fournit aussi des scripts vidéo. Le format, la régularité et les retours servent à améliorer les contenus publiés ; les résultats ne sont pas garantis.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_viral",
+    "type": "faq",
+    "question": "La formation apprend-elle à créer du contenu viral ?",
+    "aliases": [
+      "Apprend-on à faire des vidéos virales ?",
+      "Comment faire des vues ?",
+      "Est-ce que vous garantissez la viralité ?",
+      "Viralité et réseaux sociaux"
+    ],
+    "keywords": [
+      "viral",
+      "vues",
+      "réseaux sociaux",
+      "contenu viral",
+      "vidéo virale"
+    ],
+    "answer": "Le rapport TrustWho décrit un module intitulé « Contenu viral qui vend » et des exercices autour de la création de contenu. Cela ne signifie pas qu’une vidéo deviendra nécessairement virale : la portée dépend de nombreux facteurs et aucun nombre de vues ni revenu n’est garanti. L’objectif est de travailler une méthode de contenu orientée vers l’attraction de prospects et la vente.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_setting_closing",
+    "type": "faq",
+    "question": "Qu’apprend-on en setting et closing ?",
+    "aliases": [
+      "C’est quoi le closing ?",
+      "C’est quoi le setting ?",
+      "Apprend-on à vendre au téléphone ?",
+      "Comment s’entraîner à closer ?",
+      "Je ne sais pas vendre"
+    ],
+    "keywords": [
+      "setting",
+      "closing",
+      "vente",
+      "role play",
+      "appel commercial",
+      "prospect"
+    ],
+    "answer": "Le site prévoit des entraînements pratiques au closing, à raison de deux à quatre role plays par semaine. Le rapport TrustWho recense également un module « Setting et closing ». Le setting consiste généralement à qualifier et préparer les échanges avec les prospects ; le closing porte sur la conduite de l’échange commercial et la décision. Les mises en situation servent à s’entraîner avant les appels réels.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_roleplays",
+    "type": "faq",
+    "question": "Combien de role plays de closing sont prévus ?",
+    "aliases": [
+      "Combien de mises en situation par semaine ?",
+      "Combien de simulations de vente ?",
+      "À quelle fréquence le closing est travaillé ?"
+    ],
+    "keywords": [
+      "role plays",
+      "roleplay",
+      "simulation",
+      "closing",
+      "2 à 4",
+      "exercice vente"
+    ],
+    "answer": "La page officielle annonce **2 à 4 role plays par semaine** pour vous entraîner au closing avant de parler à de vrais prospects. La fréquence exacte peut être organisée selon le planning de l’accompagnement.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_clients_satisfaction",
+    "type": "faq",
+    "question": "La formation parle-t-elle de satisfaction et d’intervention clients ?",
+    "aliases": [
+      "Que couvrent les modules après la vente ?",
+      "Travaille-t-on la satisfaction client ?",
+      "Y a-t-il un module sur les clients ?"
+    ],
+    "keywords": [
+      "satisfaction client",
+      "interventions clients",
+      "module",
+      "programme"
+    ],
+    "answer": "Le rapport TrustWho décrit deux modules du parcours sur Skool intitulés « Satisfaction client » et « Interventions clients ». Il les présente comme des étapes du parcours pédagogique. La page publique ne détaille pas leur programme ligne par ligne ; pour le contenu à jour, il faut le confirmer avec l’équipe lors de l’appel.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_mindset_fiscalite",
+    "type": "faq",
+    "question": "Y a-t-il des contenus sur le mindset et la fiscalité ?",
+    "aliases": [
+      "Y a-t-il un module mental ?",
+      "Est-ce qu’on apprend la fiscalité ?",
+      "Aide à la création d’entreprise et impôts ?"
+    ],
+    "keywords": [
+      "mindset",
+      "fiscalité",
+      "impôts",
+      "module fiscal",
+      "entreprise"
+    ],
+    "answer": "Le rapport TrustWho décrit deux modules supplémentaires intitulés « Mindset » et « Module fiscalité ». Ils font partie des huit modules observés sur la plateforme Skool lors de l’audit d’août 2026. Le rapport ne remplace pas un conseil juridique, comptable ou fiscal personnalisé ; pour une situation individuelle, adressez-vous à un professionnel compétent.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_coach_principal",
+    "type": "faq",
+    "question": "Est-ce que j’aurai un coach attitré ?",
+    "aliases": [
+      "Ai-je un coach personnel ?",
+      "Est-ce que quelqu’un suit mon évolution ?",
+      "Un coach principal me sera-t-il attribué ?"
+    ],
+    "keywords": [
+      "coach principal",
+      "coach attitré",
+      "coach personnel",
+      "suivi individuel"
+    ],
+    "answer": "Oui. La page officielle indique qu’un coach principal vous est attribué pour suivre votre parcours. Il connaît votre offre, votre avatar, votre niveau et votre progression, afin de travailler sur les blocages rencontrés. Le coach sert de point de repère dans la durée.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_1to1",
+    "type": "faq",
+    "question": "Les appels individuels sont-ils illimités ?",
+    "aliases": [
+      "Combien d’appels individuels ?",
+      "Puis-je appeler mon coach autant que je veux ?",
+      "Les rendez-vous avec le coach sont-ils limités ?"
+    ],
+    "keywords": [
+      "1-to-1",
+      "one-to-one",
+      "illimité",
+      "appels individuels",
+      "coach"
+    ],
+    "answer": "La page officielle annonce des appels one-to-one illimités avec le coach principal, autant de fois que nécessaire. Il s’agit d’un accompagnement individuel pour avancer sur votre situation et vos blocages. Les modalités concrètes de réservation et les éventuelles règles d’organisation sont à vérifier dans le contrat et l’espace membre.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_whatsapp",
+    "type": "faq",
+    "question": "Comment fonctionne le suivi WhatsApp ?",
+    "aliases": [
+      "Est-ce que je peux écrire à mon coach ?",
+      "Avez-vous un groupe WhatsApp ?",
+      "Quel est le délai de réponse ?",
+      "Le coach me relance-t-il ?"
+    ],
+    "keywords": [
+      "whatsapp",
+      "suivi quotidien",
+      "message",
+      "réponse dans la journée",
+      "relance"
+    ],
+    "answer": "La page officielle annonce un suivi WhatsApp personnel au quotidien avec le coach principal, qui peut également vous relancer lorsque vous décrochez. Elle mentionne par ailleurs un groupe WhatsApp avec le coach closing, avec une réponse annoncée dans la journée. Les disponibilités exactes et les règles d’utilisation sont à confirmer auprès de l’équipe.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_coaching_contenu",
+    "type": "faq",
+    "question": "À quelle fréquence ont lieu les coachings de création de contenu ?",
+    "aliases": [
+      "Combien de coachings contenu par semaine ?",
+      "À quelle fréquence voit-on Mickaël ?",
+      "Y a-t-il des lives de création de contenu ?"
+    ],
+    "keywords": [
+      "coaching",
+      "trois fois",
+      "3 fois",
+      "contenu",
+      "semaine",
+      "Mickaël"
+    ],
+    "answer": "Le site officiel annonce au minimum **trois coachings par semaine** consacrés à la création de contenu, avec votre coach et Mickaël. Le planning concret et les créneaux applicables à votre parcours seront à confirmer au moment de l’entrée dans l’accompagnement.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_discord",
+    "type": "faq",
+    "question": "À quoi sert le Discord ?",
+    "aliases": [
+      "Y a-t-il une communauté ?",
+      "Comment échanger avec les autres élèves ?",
+      "Est-ce qu’il y a un serveur Discord ?"
+    ],
+    "keywords": [
+      "discord",
+      "communauté",
+      "groupe",
+      "élèves",
+      "entraide"
+    ],
+    "answer": "La page officielle présente Discord comme un espace communautaire où les membres avancent avec d’autres personnes qui suivent l’accompagnement. Le rapport TrustWho décrit des salons spécialisés, des échanges écrits et un suivi de progression. Le contenu et l’organisation des salons peuvent évoluer ; l’accès est fourni dans le cadre de l’accompagnement.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_conferences",
+    "type": "faq",
+    "question": "Y a-t-il des rencontres en présentiel ?",
+    "aliases": [
+      "Est-ce qu’il y a des événements ?",
+      "Peut-on rencontrer les autres membres ?",
+      "Les conférences sont-elles payantes ?",
+      "Y a-t-il des rencontres physiques ?"
+    ],
+    "keywords": [
+      "présentiel",
+      "conférence",
+      "événement",
+      "rencontre",
+      "chaque mois"
+    ],
+    "answer": "Oui. La page officielle indique que des conférences en présentiel sont organisées chaque mois et offertes aux membres. Elle mentionne également des interventions d’autres membres et du réseau de Mickaël. Les villes, dates et modalités pratiques ne sont pas détaillées sur la page : elles sont à confirmer dans l’espace membre.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_reponse_support",
+    "type": "faq",
+    "question": "En combien de temps reçoit-on une réponse à une question ?",
+    "aliases": [
+      "Le support est-il rapide ?",
+      "Délai de réponse du coach",
+      "Réponse en combien de temps sur Discord ?"
+    ],
+    "keywords": [
+      "délai réponse",
+      "support",
+      "24 heures",
+      "dans la journée",
+      "discord",
+      "whatsapp"
+    ],
+    "answer": "La page officielle annonce, dans le groupe WhatsApp du coach closing, une réponse dans la journée. Le rapport TrustWho relève également une réponse en moins de 24 heures sur Discord lors de son audit. Cela décrit les canaux et observations rapportés, mais ne doit pas être interprété comme un engagement de délai contractuel pour chaque message et chaque canal.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_timide",
+    "type": "faq",
+    "question": "Je suis timide, est-ce que je peux quand même progresser ?",
+    "aliases": [
+      "Je suis introverti",
+      "Je n’ose pas parler en groupe",
+      "Je suis réservé, est-ce un problème ?"
+    ],
+    "keywords": [
+      "timide",
+      "introverti",
+      "réservé",
+      "parler",
+      "feedback",
+      "demander de l’aide"
+    ],
+    "answer": "C’est possible, mais il faut être prêt à demander des retours et à participer. Le rapport TrustWho indique que les coachs peuvent apporter des retours concrets, mais que les membres les plus réservés peuvent moins en profiter s’ils restent silencieux pendant les coachings collectifs et ne sollicitent pas les coachs. L’accompagnement ne remplace donc pas votre propre participation active.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_relance",
+    "type": "faq",
+    "question": "Est-ce que le coach me relance si je ne fais plus rien ?",
+    "aliases": [
+      "Que se passe-t-il si je décroche ?",
+      "Est-ce que quelqu’un remarque mon inactivité ?",
+      "On me relance si je ne publie pas ?"
+    ],
+    "keywords": [
+      "relance",
+      "décroche",
+      "inactif",
+      "48 heures",
+      "suivi proactif"
+    ],
+    "answer": "La page officielle dit que le coach principal ne vous attend pas simplement : il vous relance et suit votre progression via WhatsApp. Le rapport TrustWho décrit, lors de l’audit d’août 2026, un suivi proactif et un système de signalement après 48 heures d’inactivité. Il note aussi qu’un membre qui travaille silencieusement sans solliciter de retour peut avoir moins de feedback. Les modalités actuelles sont à confirmer avec l’équipe.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_temps",
+    "type": "faq",
+    "question": "Combien de temps faut-il consacrer à l’accompagnement ?",
+    "aliases": [
+      "Combien d’heures par jour ?",
+      "Combien de temps par semaine ?",
+      "Puis-je suivre le programme en travaillant ?",
+      "Est-ce compatible avec des études ?"
+    ],
+    "keywords": [
+      "temps",
+      "heures",
+      "par jour",
+      "par semaine",
+      "disponibilité",
+      "emploi",
+      "études"
+    ],
+    "answer": "La page officielle indique que les membres y consacrent entre **1 heure et 5 heures par jour**. Le coach ajuste le rythme avec vous dès le premier appel, en fonction de vos contraintes réelles. Ce chiffre décrit la pratique rapportée par le site, pas une garantie de résultat ou un minimum contractuel universel.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_rythme",
+    "type": "faq",
+    "question": "Puis-je avancer à mon propre rythme ?",
+    "aliases": [
+      "Est-ce flexible ?",
+      "Je travaille à côté, est-ce possible ?",
+      "Puis-je avancer quand je veux ?",
+      "Le programme est-il à temps partiel ?"
+    ],
+    "keywords": [
+      "rythme",
+      "flexible",
+      "emploi",
+      "temps partiel",
+      "à côté",
+      "horaire"
+    ],
+    "answer": "Le coach principal cale le rythme avec vous selon le temps dont vous disposez. Toutefois, la page indique que les membres consacrent généralement entre 1 et 5 heures par jour et que la régularité compte. Ce n’est donc pas présenté comme un programme à suivre uniquement de façon occasionnelle. Discutez de vos contraintes lors de l’appel.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_duree",
+    "type": "faq",
+    "question": "Combien de temps dure le programme ?",
+    "aliases": [
+      "Combien de mois dure la formation ?",
+      "Accès à vie ?",
+      "Pendant combien de temps ai-je accès ?",
+      "La formation dure 3 mois ou 1 an ?"
+    ],
+    "keywords": [
+      "durée",
+      "90 jours",
+      "12 mois",
+      "accès",
+      "à vie",
+      "contrat"
+    ],
+    "answer": "La page officielle met en avant un objectif de 90 jours, mais elle ne donne pas sur sa page publique une durée contractuelle complète de l’accompagnement ni un calendrier détaillé. Le rapport TrustWho a relevé, dans le contrat consulté en août 2026, une durée d’accès contractuelle de 12 mois, tout en observant un accès encore actif après un an. Cette observation ne vaut pas promesse d’accès à vie : vérifiez la durée écrite dans le contrat qui vous sera proposé.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_materiel",
+    "type": "faq",
+    "question": "Quel matériel faut-il pour commencer ?",
+    "aliases": [
+      "Faut-il un ordinateur ?",
+      "Un téléphone suffit-il ?",
+      "Quels logiciels faut-il acheter ?",
+      "Faut-il une caméra ?"
+    ],
+    "keywords": [
+      "matériel",
+      "ordinateur",
+      "smartphone",
+      "téléphone",
+      "logiciel",
+      "outil"
+    ],
+    "answer": "La page officielle ne liste pas les exigences matérielles. Le rapport TrustWho rapporte qu’un smartphone suffisait pour démarrer d’après les explications du formateur pendant l’audit. Pour les tâches précises que vous aurez à réaliser, demandez confirmation au moment de l’appel ; ne supposez pas qu’aucun autre outil ne sera jamais utile.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_acces_videos",
+    "type": "faq",
+    "question": "Combien d’heures de vidéos contient la formation ?",
+    "aliases": [
+      "Combien de vidéos ?",
+      "Quel est le volume de cours ?",
+      "Combien d’heures de contenu ?"
+    ],
+    "keywords": [
+      "vidéos",
+      "heures de cours",
+      "volume",
+      "contenu vidéo"
+    ],
+    "answer": "La page officielle ne publie pas le volume total de vidéos. Le rapport TrustWho décrit environ cinq heures de modules vidéo dans la version de la plateforme observée lors de son audit d’août 2026. Cette mesure peut ne pas correspondre à la version actuelle et ne représente pas le volume total d’accompagnement en direct.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_modules",
+    "type": "faq",
+    "question": "Quels sont les modules de la formation ?",
+    "aliases": [
+      "Donnez-moi le programme complet",
+      "Quels cours sont inclus ?",
+      "Quels sont les chapitres ?",
+      "Quelles matières sont enseignées ?"
+    ],
+    "keywords": [
+      "modules",
+      "programme",
+      "cours",
+      "chapitres",
+      "skool"
+    ],
+    "answer": "Le rapport TrustWho décrit huit modules sur la plateforme Skool lors de son audit d’août 2026 : **Bienvenue**, **Positionnement**, **Contenu viral qui vend**, **Setting et closing**, **Satisfaction client**, **Interventions clients**, **Mindset** et **Fiscalité**. La page publique actuelle ne détaille pas ces modules ; l’organisation peut évoluer. Le contenu exact doit être confirmé dans l’espace membre ou pendant l’appel.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_plateforme",
+    "type": "faq",
+    "question": "Sur quelle plateforme se déroule le programme ?",
+    "aliases": [
+      "Est-ce sur Skool ?",
+      "Où sont hébergés les cours ?",
+      "Quel espace membre est utilisé ?"
+    ],
+    "keywords": [
+      "skool",
+      "plateforme",
+      "espace membre",
+      "discord",
+      "cours en ligne"
+    ],
+    "answer": "Le rapport TrustWho décrit une plateforme Skool pour les modules, les tutoriels et le suivi de progression, avec Discord pour les échanges communautaires. La page officielle mentionne Discord, mais ne précise pas publiquement tous les outils actuels. Les accès et plateformes effectivement utilisés vous seront communiqués lors de l’inscription.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_prix",
+    "type": "faq",
+    "question": "Combien coûte MW Business ?",
+    "aliases": [
+      "Quel est le tarif ?",
+      "Combien ça coûte ?",
+      "Quel est le prix de la formation ?",
+      "C’est combien MW Business ?",
+      "Est-ce 3600 euros ?"
+    ],
+    "keywords": [
+      "prix",
+      "tarif",
+      "coût",
+      "3600",
+      "3 600",
+      "combien",
+      "payer"
+    ],
+    "answer": "Le prix n’est pas affiché sur la page officielle. Elle indique qu’il est communiqué pendant l’appel, après avoir vérifié si l’accompagnement correspond à votre situation. Le rapport TrustWho mentionne 3 600 € pour un profil examiné lors de son audit d’août 2026, mais précise que l’offre peut varier selon le profil et le parcours. Ce chiffre historique n’est donc pas un devis ni un tarif garanti aujourd’hui. Pour connaître le prix qui vous serait proposé, réservez un appel et demandez le montant total ainsi que toutes les modalités par écrit.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_prix_audit",
+    "type": "faq",
+    "question": "Le tarif de 3 600 € est-il toujours le prix ?",
+    "aliases": [
+      "J’ai vu 3600 euros sur internet",
+      "Le prix est-il 3600 € ?",
+      "Pourquoi le prix varie ?"
+    ],
+    "keywords": [
+      "3600 euros",
+      "tarif audit",
+      "prix différent",
+      "profil",
+      "offre personnalisée"
+    ],
+    "answer": "Je ne peux pas confirmer que 3 600 € soit le tarif actuel ou celui qui s’appliquerait à votre profil. Ce montant apparaît dans le rapport TrustWho à partir d’appels de qualification audités en août 2026, et le rapport précise que le prix peut différer selon le parcours et la situation. Le site officiel ne publie pas de prix fixe : le tarif doit être confirmé directement pendant l’appel, puis dans le contrat.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_paiement",
+    "type": "faq",
+    "question": "Peut-on payer en plusieurs fois ?",
+    "aliases": [
+      "Est-ce payable en plusieurs fois ?",
+      "Peut-on échelonner ?",
+      "Y a-t-il des mensualités ?",
+      "Paiement en 6 fois ?"
+    ],
+    "keywords": [
+      "payer en plusieurs fois",
+      "échéance",
+      "mensualité",
+      "6 fois",
+      "acompte"
+    ],
+    "answer": "La page officielle ne détaille pas les échéanciers. Le rapport TrustWho indique qu’un paiement jusqu’à six fois sans frais supplémentaires a été observé pour le profil audité en août 2026. Les conditions peuvent varier : faites confirmer le nombre d’échéances, le coût total, les dates de prélèvement et les éventuels acomptes dans une proposition écrite avant de signer.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_frais_caches",
+    "type": "faq",
+    "question": "Y a-t-il des frais supplémentaires ou des logiciels payants ?",
+    "aliases": [
+      "Des frais cachés ?",
+      "Dois-je payer des logiciels ?",
+      "Y a-t-il un abonnement en plus ?",
+      "Faut-il acheter des outils ?"
+    ],
+    "keywords": [
+      "frais cachés",
+      "frais supplémentaires",
+      "logiciel",
+      "abonnement",
+      "outil payant"
+    ],
+    "answer": "La page officielle ne donne pas de liste exhaustive de frais ou d’outils. Lors de son audit d’août 2026, TrustWho n’a pas identifié de logiciel, abonnement ou outil payant obligatoire en plus du prix de l’accompagnement parmi les appels et le contrat examinés. Pour votre situation actuelle, demandez une confirmation écrite du coût total et de tous les outils éventuellement nécessaires avant paiement.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_garantie",
+    "type": "faq",
+    "question": "Existe-t-il une garantie de remboursement ?",
+    "aliases": [
+      "Satisfait ou remboursé ?",
+      "Puis-je être remboursé ?",
+      "Y a-t-il une garantie ?",
+      "Est-ce un avoir ou un remboursement ?"
+    ],
+    "keywords": [
+      "garantie",
+      "remboursement",
+      "satisfait ou remboursé",
+      "contrat",
+      "conditions"
+    ],
+    "answer": "Oui. La page officielle indique qu’une garantie de remboursement est prévue au contrat et que ses conditions exactes sont présentées pendant l’appel, avant toute signature. Ce n’est pas une garantie automatique de revenus. Lisez la clause complète, les critères à respecter, les délais et les justificatifs demandés dans le contrat avant de vous engager.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_garantie_conditions_audit",
+    "type": "faq",
+    "question": "Quelles sont les conditions de remboursement décrites dans le rapport TrustWho ?",
+    "aliases": [
+      "Quelles sont les conditions exactes ?",
+      "Faut-il assister aux coachings pour être remboursé ?",
+      "80 pour cent des coachings ?",
+      "Comment fonctionne la garantie 5000 euros ?",
+      "Combien de temps pour demander le remboursement ?"
+    ],
+    "keywords": [
+      "conditions remboursement",
+      "80%",
+      "trois mois",
+      "15 jours",
+      "plan action",
+      "garantie commerciale"
+    ],
+    "answer": "Le rapport TrustWho décrit une version du contrat examinée en août 2026 : remboursement intégral si le membre n’atteint pas 5 000 € de chiffre d’affaires au terme de trois mois, sous trois conditions cumulatives :\n\n1. Avoir suivi le plan d’action de bonne foi et de façon substantielle.\n2. Avoir participé à au moins 80 % des coachings collectifs pendant la période.\n3. Avoir transmis un justificatif de chiffre d’affaires dans les 15 jours suivant la fin de la période.\n\n**Attention :** il s’agit des conditions relevées dans un contrat audité par TrustWho en août 2026, pas d’une reproduction du contrat qui vous serait proposé aujourd’hui. La page officielle dit que les conditions exactes sont présentées pendant l’appel, avant signature. Seul le contrat actuel fait foi : demandez-le et vérifiez l’article garantie avant de payer.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_garantie_delai",
+    "type": "faq",
+    "question": "La garantie signifie-t-elle que je gagnerai 5 000 € en trois mois ?",
+    "aliases": [
+      "La garantie assure-t-elle 5000 euros ?",
+      "Je suis sûr de gagner 5000 € ?",
+      "Garantie de résultat ou remboursement ?"
+    ],
+    "keywords": [
+      "garantie résultat",
+      "revenu assuré",
+      "5000",
+      "remboursement conditionnel"
+    ],
+    "answer": "Non. La garantie de remboursement et l’objectif de 5 000 € ne doivent pas être confondus avec un revenu garanti. La page officielle précise qu’aucun revenu n’est garanti. Le rapport TrustWho décrit une clause de remboursement conditionnelle dans le contrat qu’il a examiné en août 2026. Il faut lire le contrat actuel pour connaître les conditions applicables à votre achat.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_financement_cpf",
+    "type": "faq",
+    "question": "La formation est-elle éligible au CPF ?",
+    "aliases": [
+      "Puis-je payer avec mon compte formation ?",
+      "CPF accepté ?",
+      "Est-ce finançable par mon compte CPF ?"
+    ],
+    "keywords": [
+      "cpf",
+      "compte personnel de formation",
+      "financement cpf"
+    ],
+    "answer": "La page officielle ne mentionne pas d’éligibilité CPF. Le rapport TrustWho indique qu’au moment de son audit d’août 2026, l’offre n’était pas enregistrée comme action de formation professionnelle éligible au CPF et que l’achat se faisait sur fonds propres. Cette situation peut évoluer : ne comptez pas sur le CPF sans obtenir une confirmation écrite et vérifiable de l’équipe avant tout engagement.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_financement_opco",
+    "type": "faq",
+    "question": "Mon OPCO ou mon employeur peut-il financer l’accompagnement ?",
+    "aliases": [
+      "Financement OPCO ?",
+      "Est-ce pris en charge par mon entreprise ?",
+      "Mon employeur peut payer ?"
+    ],
+    "keywords": [
+      "opco",
+      "employeur",
+      "entreprise",
+      "prise en charge"
+    ],
+    "answer": "La page officielle ne présente pas de financement OPCO ou employeur. Le rapport TrustWho indique qu’au moment de son audit d’août 2026, l’offre ne disposait pas des éléments d’enregistrement professionnel mentionnés dans le rapport et que l’achat se faisait sur fonds propres, sans financement OPCO identifié. Vérifiez par écrit la situation actuelle avant de prévoir une prise en charge.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_financement_francetravail",
+    "type": "faq",
+    "question": "France Travail peut-il financer MW Business ?",
+    "aliases": [
+      "Je suis demandeur d’emploi, est-ce financé ?",
+      "AIF France Travail ?",
+      "Pôle emploi peut payer ?"
+    ],
+    "keywords": [
+      "france travail",
+      "pôle emploi",
+      "aif",
+      "demandeur emploi",
+      "financement public"
+    ],
+    "answer": "Je ne peux pas vous confirmer une prise en charge par France Travail. Le rapport TrustWho indique qu’au moment de son audit d’août 2026, l’offre ne relevait pas d’un dispositif de financement public ou paritaire et que l’achat se faisait sur fonds propres. Demandez une confirmation écrite à l’équipe et à votre conseiller France Travail avant de considérer ce financement comme possible.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_financement_fonds_propres",
+    "type": "faq",
+    "question": "Comment faut-il prévoir le financement ?",
+    "aliases": [
+      "Faut-il payer soi-même ?",
+      "Est-ce financé par un organisme ?",
+      "Puis-je faire un crédit pour payer ?"
+    ],
+    "keywords": [
+      "fonds propres",
+      "autofinancement",
+      "financer",
+      "payer soi-même",
+      "crédit"
+    ],
+    "answer": "À la lecture du rapport TrustWho, l’achat était réalisé sur fonds propres lors de l’audit d’août 2026. Le site officiel ne présente pas de solution CPF, OPCO ou France Travail sur sa page publique. Avant l’appel, évaluez votre capacité à payer sans vous mettre en difficulté. Demandez le prix total, l’échéancier et les conditions de remboursement par écrit ; n’empruntez pas et ne vous engagez pas sous pression.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_resultats",
+    "type": "faq",
+    "question": "Quels résultats les membres peuvent-ils obtenir ?",
+    "aliases": [
+      "Est-ce que les élèves gagnent de l’argent ?",
+      "Quels résultats avez-vous ?",
+      "Combien gagnent les élèves ?",
+      "Les témoignages sont-ils représentatifs ?"
+    ],
+    "keywords": [
+      "résultats élèves",
+      "témoignage",
+      "gagner",
+      "revenus",
+      "chiffre affaires",
+      "preuve"
+    ],
+    "answer": "Le site présente des témoignages et met en avant l’objectif de viser 5 000 € de chiffre d’affaires mensuel en 90 jours. Il précise toutefois que les résultats publiés correspondent à des cas individuels, ne sont pas représentatifs de chacun et ne garantissent aucun revenu. Les résultats dépendent du travail réalisé, de l’expérience et du marché choisi. Il faut donc considérer les témoignages comme des exemples, pas comme une prévision personnelle.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_temoignages",
+    "type": "faq",
+    "question": "Où consulter les témoignages ?",
+    "aliases": [
+      "Où voir les avis des élèves ?",
+      "Avez-vous des témoignages ?",
+      "Je peux voir des résultats ?"
+    ],
+    "keywords": [
+      "avis",
+      "témoignages",
+      "vidéo",
+      "élèves",
+      "expérience"
+    ],
+    "answer": "La page officielle présente plusieurs témoignages vidéo : elle invite notamment à écouter les membres plutôt que de se fier uniquement au discours commercial. Elle propose aussi le témoignage de la mère d’un membre. Les vidéos sont accessibles depuis https://www.mickaelwu.com/ . Rappelez-vous que les témoignages correspondent à des expériences individuelles et ne prédisent pas votre résultat.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_trustwho_score",
+    "type": "faq",
+    "question": "Le rapport TrustWho attribue-t-il une note à l’accompagnement ?",
+    "aliases": [
+      "Quelle note TrustWho a donnée ?",
+      "Est-ce évalué par un organisme indépendant ?",
+      "Le score de fiabilité est combien ?",
+      "TrustWho recommande-t-il la formation ?"
+    ],
+    "keywords": [
+      "trustwho",
+      "96/100",
+      "score",
+      "fiable",
+      "rapport",
+      "évaluation"
+    ],
+    "answer": "Oui. Le rapport public TrustWho affiche un score de **96/100** et classe Mickael Wu Business dans la catégorie « Très fiable ». Le rapport présente aussi ses critères, sa méthodologie, ses points forts et ses points de vigilance. Ce score est l’évaluation de TrustWho, pas une certification de l’État, une garantie de revenus ou une approbation officielle. Vous pouvez lire le rapport complet ici : https://rapport.trustwho.io/rapport/mickael-wu-business .",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_points_forts_audit",
+    "type": "faq",
+    "question": "Quels points forts TrustWho relève-t-il ?",
+    "aliases": [
+      "Quelles sont les forces de la formation selon TrustWho ?",
+      "Pourquoi la note est élevée ?",
+      "Quels sont les avantages relevés par l’audit ?"
+    ],
+    "keywords": [
+      "points forts",
+      "trustwho",
+      "coach",
+      "preuves",
+      "pédagogie",
+      "accompagnement"
+    ],
+    "answer": "Dans son rapport public, TrustWho met notamment en avant la clarté de la promesse, la personnalisation du suivi par un coach, les appels de déblocage, les éléments de preuve de résultats consultés, la structure pédagogique et la réactivité de l’accompagnement. Le rapport note 96/100 au total. Il s’agit de l’analyse et des conclusions de TrustWho, que vous pouvez examiner avec sa méthodologie : https://rapport.trustwho.io/rapport/mickael-wu-business .",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_points_vigilance",
+    "type": "faq",
+    "question": "Quels points de vigilance faut-il examiner avant de signer ?",
+    "aliases": [
+      "Quels sont les inconvénients ?",
+      "Y a-t-il des points faibles ?",
+      "Quelles questions poser avant de payer ?",
+      "Qu’est-ce qui mérite vigilance ?"
+    ],
+    "keywords": [
+      "points faibles",
+      "vigilance",
+      "inconvénient",
+      "risque",
+      "contrat",
+      "prix"
+    ],
+    "answer": "Le rapport TrustWho signale notamment que le tarif n’est pas affiché publiquement et qu’il est communiqué après un appel ; que les conditions détaillées de la garantie doivent être examinées dans le contrat ; et que l’accompagnement demande une régularité et une implication importantes. Le rapport souligne aussi que les personnes timides doivent prendre l’initiative de solliciter des retours. Avant de signer, demandez le contrat complet, le prix total, les échéances, la durée d’accès et les conditions de remboursement, puis prenez le temps de les lire.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_fiable",
+    "type": "faq",
+    "question": "Est-ce une arnaque ? Comment vérifier avant de s’engager ?",
+    "aliases": [
+      "Est-ce fiable ?",
+      "Puis-je faire confiance à Mickaël Wu ?",
+      "Est-ce une arnaque ?",
+      "Comment vérifier la formation ?"
+    ],
+    "keywords": [
+      "arnaque",
+      "scam",
+      "fiable",
+      "confiance",
+      "avis indépendant",
+      "trustwho"
+    ],
+    "answer": "Je ne peux pas décider à votre place ni garantir l’expérience que vous aurez. Le site officiel renvoie vers un rapport public TrustWho, qui attribue 96/100 à Mickael Wu Business et détaille aussi des points de vigilance. Pour vous faire votre propre avis, lisez le rapport et sa méthodologie, demandez le contrat avant de payer, vérifiez les conditions de remboursement, le prix total et les possibilités de financement, et ne prenez pas de décision sous pression.\n\nRapport : https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_certificat",
+    "type": "faq",
+    "question": "La formation délivre-t-elle un diplôme ou une certification ?",
+    "aliases": [
+      "Y a-t-il un diplôme ?",
+      "Obtient-on un certificat ?",
+      "Est-ce reconnu par l’État ?",
+      "Est-ce une formation certifiante ?"
+    ],
+    "keywords": [
+      "diplôme",
+      "certificat",
+      "certification",
+      "reconnu état",
+      "rncp",
+      "qualification"
+    ],
+    "answer": "La page officielle ne présente pas de diplôme ou de certification professionnelle. Le rapport TrustWho indique qu’aucun certificat n’était délivré dans le programme observé lors de l’audit d’août 2026. Il décrit un accompagnement entrepreneurial autour de la création de contenu et de la vente, pas un cursus diplômant. Demandez confirmation dans le contrat si un document de fin de parcours est important pour vous.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_qualiopi",
+    "type": "faq",
+    "question": "MW Business est-il certifié Qualiopi ou déclaré comme organisme de formation ?",
+    "aliases": [
+      "Avez-vous Qualiopi ?",
+      "Quel est le numéro NDA ?",
+      "Êtes-vous un organisme de formation déclaré ?",
+      "Est-ce au RNCP ou RS ?"
+    ],
+    "keywords": [
+      "qualiopi",
+      "nda",
+      "déclaration activité",
+      "rncp",
+      "répertoire spécifique",
+      "organisme formation"
+    ],
+    "answer": "La page officielle ne revendique pas de certification Qualiopi ni de numéro de déclaration d’activité. Le rapport TrustWho indique qu’au moment de l’audit d’août 2026, il n’avait pas identifié de NDA valide ni de certification Qualiopi pour l’offre, et qu’elle n’était pas enregistrée au RNCP ou au Répertoire spécifique. Comme ces éléments peuvent évoluer, demandez les justificatifs officiels actuels si ce point conditionne votre décision.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_financement_synthese",
+    "type": "faq",
+    "question": "Puis-je utiliser un financement public ou professionnel ?",
+    "aliases": [
+      "Quels financements acceptez-vous ?",
+      "CPF ou OPCO possible ?",
+      "Est-ce pris en charge par l’État ?",
+      "Financement par un organisme ?"
+    ],
+    "keywords": [
+      "financement",
+      "cpf",
+      "opco",
+      "france travail",
+      "aide",
+      "état"
+    ],
+    "answer": "Ne partez pas du principe que l’accompagnement est finançable par le CPF, un OPCO ou France Travail. Le rapport TrustWho indique qu’au moment de son audit d’août 2026, aucun de ces financements n’était possible pour cette offre, en raison de l’absence d’enregistrement professionnel constatée. La page officielle ne présente pas de prise en charge de ce type. Demandez une confirmation écrite et des justificatifs actuels avant toute décision.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_comparer",
+    "type": "faq",
+    "question": "Comment comparer MW Business à une formation vidéo moins chère ?",
+    "aliases": [
+      "Pourquoi payer plus cher qu’une formation en ligne ?",
+      "Quelle différence avec une formation pas chère ?",
+      "Comment comparer les offres ?"
+    ],
+    "keywords": [
+      "comparaison",
+      "formation vidéo",
+      "moins cher",
+      "prix",
+      "accompagnement",
+      "coach"
+    ],
+    "answer": "Le site positionne MW Business comme un accompagnement centré sur l’exécution : coach principal, appels individuels, suivi WhatsApp, sessions de création de contenu, role plays de closing et communauté. Une formation vidéo seule peut coûter moins cher mais n’offre pas nécessairement le même niveau de suivi. Pour comparer objectivement, regardez le temps d’accompagnement réel, la disponibilité des coachs, la durée d’accès, le prix total, le contrat et les conditions de remboursement.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_objections",
+    "type": "faq",
+    "question": "J’ai peur de payer et de ne pas réussir, que me conseillez-vous ?",
+    "aliases": [
+      "J’ai peur de perdre mon argent",
+      "Et si je ne réussis pas ?",
+      "Je doute de pouvoir y arriver",
+      "Est-ce risqué financièrement ?"
+    ],
+    "keywords": [
+      "peur",
+      "risque",
+      "perdre argent",
+      "échec",
+      "finances",
+      "doute"
+    ],
+    "answer": "C’est une question importante. L’accompagnement peut proposer un cadre et du suivi, mais il ne supprime pas le risque d’échec et ne garantit aucun revenu. Avant de vous engager, vérifiez si vous pouvez réellement consacrer du temps au projet, si le modèle correspond à votre situation, et si le prix est supportable sans mettre vos finances en difficulté. Demandez le contrat et les conditions de remboursement, lisez-les entièrement et prenez le temps de réfléchir. Vous pouvez réserver un appel pour poser vos questions, sans confondre un échange d’information avec une obligation d’achat.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_appel",
+    "type": "faq",
+    "question": "Pourquoi faut-il réserver un appel ?",
+    "aliases": [
+      "À quoi sert l’appel ?",
+      "Pourquoi le prix est donné au téléphone ?",
+      "Que va-t-on me demander pendant l’appel ?",
+      "Est-ce un appel de vente ?"
+    ],
+    "keywords": [
+      "appel",
+      "qualification",
+      "prix",
+      "réserver",
+      "rendez-vous",
+      "conseiller"
+    ],
+    "answer": "La page officielle indique que le prix est communiqué pendant l’appel après avoir vérifié si l’accompagnement est adapté à votre situation. L’échange sert donc à comprendre votre profil et vos objectifs, à expliquer le fonctionnement et à présenter les modalités commerciales. Vous pouvez y poser vos questions sur le coach, le temps à prévoir, le tarif, le contrat et la garantie avant de prendre une décision.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_reserver",
+    "type": "faq",
+    "question": "Comment réserver un appel avec l’équipe ?",
+    "aliases": [
+      "Je veux prendre rendez-vous",
+      "Où réserver un appel ?",
+      "Prendre un appel avec Mickaël",
+      "Lien de réservation"
+    ],
+    "keywords": [
+      "réserver",
+      "appel",
+      "rendez-vous",
+      "iclosed",
+      "calendrier"
+    ],
+    "answer": "Vous pouvez réserver depuis le calendrier officiel iClosed : https://app.iclosed.io/e/mickaelwu/rtg . Le bouton « Réserver un appel » du site officiel mène vers ce calendrier. Choisissez un créneau disponible et renseignez les informations demandées par le service de réservation.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_appel_gratuit",
+    "type": "faq",
+    "question": "L’appel est-il gratuit ?",
+    "aliases": [
+      "Est-ce un appel gratuit ?",
+      "Le rendez-vous est-il payant ?",
+      "Combien coûte l’appel ?"
+    ],
+    "keywords": [
+      "gratuit",
+      "appel gratuit",
+      "rendez-vous payant",
+      "prix appel"
+    ],
+    "answer": "La page officielle propose de réserver un appel, mais elle ne précise pas explicitement sur la page consultée si cet échange est gratuit. Le calendrier iClosed affiche les conditions de réservation applicables. Vérifiez les informations au moment de choisir votre créneau.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_engagement_appel",
+    "type": "faq",
+    "question": "Est-ce que réserver un appel m’engage à acheter ?",
+    "aliases": [
+      "Dois-je acheter après l’appel ?",
+      "Est-ce que je m’engage en réservant ?",
+      "Puis-je refuser après l’appel ?"
+    ],
+    "keywords": [
+      "engagement",
+      "obligation",
+      "acheter",
+      "signature",
+      "paiement",
+      "appel"
+    ],
+    "answer": "La page indique que le prix et les conditions sont présentés pendant l’appel, avant toute signature. La réservation ouvre un calendrier externe pour préparer l’échange ; aucun formulaire de paiement n’est présent sur la page de présentation selon la politique de confidentialité. Lisez néanmoins les informations affichées dans iClosed et ne signez ou ne payez que lorsque vous avez compris et accepté les conditions.",
+    "source": "Politique de confidentialité officielle — https://www.mickaelwu.com/confidentialite",
+    "source_kind": "official_legal"
+  },
+  {
+    "id": "faq_contact",
+    "type": "faq",
+    "question": "Comment contacter Mickaël Wu Business ?",
+    "aliases": [
+      "Avez-vous un numéro de téléphone ?",
+      "Quelle est votre adresse e-mail ?",
+      "Comment joindre l’équipe ?",
+      "Contact support"
+    ],
+    "keywords": [
+      "contact",
+      "email",
+      "e-mail",
+      "téléphone",
+      "adresse",
+      "équipe"
+    ],
+    "answer": "Le moyen de contact mis en avant sur la page est la réservation d’un appel via iClosed : https://app.iclosed.io/e/mickaelwu/rtg . Pour les informations légales et les demandes liées au traitement de vos données personnelles, consultez les mentions légales et la politique de confidentialité du site.\n\nMentions légales : https://www.mickaelwu.com/mentions-legales\nPolitique de confidentialité : https://www.mickaelwu.com/confidentialite",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_societe",
+    "type": "faq",
+    "question": "Quelle société édite le site ?",
+    "aliases": [
+      "Quelle est l’entreprise derrière MW Business ?",
+      "Quel est le SIREN ?",
+      "Quel est le siège social ?",
+      "Qui édite le site ?"
+    ],
+    "keywords": [
+      "société",
+      "siren",
+      "siret",
+      "adresse siège",
+      "mentions légales"
+    ],
+    "answer": "Les mentions légales indiquent que le site est édité par **MICKAEL WU BUSINESS**, société par actions simplifiée, dont le siège social est situé au 60 rue François Ier, 75008 Paris. Les mentions légales affichent le SIREN 988 340 790 et le SIRET 988 340 790 00019. Pour les informations officielles à jour, consultez : https://www.mickaelwu.com/mentions-legales .",
+    "source": "Mentions légales officielles — https://www.mickaelwu.com/mentions-legales",
+    "source_kind": "official_legal"
+  },
+  {
+    "id": "faq_confidentialite",
+    "type": "faq",
+    "question": "Comment sont traitées mes données si je réserve un appel ?",
+    "aliases": [
+      "Que faites-vous de mes données ?",
+      "Mes informations sont-elles conservées ?",
+      "Quelles données sont collectées ?",
+      "RGPD"
+    ],
+    "keywords": [
+      "données personnelles",
+      "confidentialité",
+      "rgpd",
+      "cookies",
+      "iclosed"
+    ],
+    "answer": "Selon la politique de confidentialité, la réservation ouvre le service externe iClosed. Les informations renseignées dans le calendrier sont utilisées par l’équipe pour traiter la demande et préparer l’appel. Le site indique qu’il ne conserve pas de copie locale du formulaire iClosed. La politique décrit également les données techniques liées à la navigation, les cookies et les services tiers. Consultez la page complète : https://www.mickaelwu.com/confidentialite .",
+    "source": "Politique de confidentialité officielle — https://www.mickaelwu.com/confidentialite",
+    "source_kind": "official_legal"
+  },
+  {
+    "id": "faq_cookies",
+    "type": "faq",
+    "question": "Quels cookies et services tiers sont utilisés sur le site ?",
+    "aliases": [
+      "Utilisez-vous des cookies ?",
+      "Pixel Meta ?",
+      "Comment gérer les cookies ?"
+    ],
+    "keywords": [
+      "cookies",
+      "pixel meta",
+      "youtube",
+      "itreust",
+      "consentement"
+    ],
+    "answer": "La politique de confidentialité mentionne un cookie nécessaire nommé `mw_consent`, conservé 180 jours, ainsi qu’un pixel Meta utilisé pour la mesure publicitaire selon les préférences exprimées. Elle mentionne aussi des lecteurs YouTube en mode de confidentialité avancé et un module d’avis iTreust. Les préférences sont consultables avec le bouton « Gérer les cookies » en bas du site. Détails : https://www.mickaelwu.com/confidentialite .",
+    "source": "Politique de confidentialité officielle — https://www.mickaelwu.com/confidentialite",
+    "source_kind": "official_legal"
+  },
+  {
+    "id": "faq_droit_retractation",
+    "type": "faq",
+    "question": "Puis-je me rétracter après l’achat ?",
+    "aliases": [
+      "Combien de jours pour me rétracter ?",
+      "Droit de rétractation ?",
+      "Puis-je annuler mon inscription ?",
+      "Est-ce remboursable après achat ?"
+    ],
+    "keywords": [
+      "rétractation",
+      "annuler",
+      "annulation",
+      "délai",
+      "droit"
+    ],
+    "answer": "La page de présentation ne détaille pas les conditions de rétractation. Le rapport TrustWho indique que le contrat qu’il a consulté comportait une clause de droit de rétractation, mais le délai et les modalités applicables doivent être vérifiés dans le contrat actuel et selon votre situation. Demandez le contrat avant de signer et vérifiez cette clause avec attention ; ne vous fiez pas à une réponse générale pour décider de votre droit individuel.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "audit_prix_contexte",
+    "type": "info",
+    "question": "Contexte historique du prix relevé par TrustWho",
+    "aliases": [
+      "prix historique",
+      "tarif audité",
+      "tarif observé",
+      "combien a payé un élève ?"
+    ],
+    "keywords": [
+      "3600",
+      "3 600",
+      "prix audit",
+      "tarif audit"
+    ],
+    "answer": "Le rapport TrustWho indique qu’un tarif de 3 600 € a été communiqué lors d’appels de qualification audités en août 2026, et qu’un paiement jusqu’à six fois sans frais supplémentaires a été observé pour le profil examiné. Le rapport précise que le prix n’est pas fixe et peut varier selon le parcours (par exemple démarrage ou développement d’une activité existante). Ne jamais présenter 3 600 € comme le tarif universel ou nécessairement actuel. Pour le prix applicable, se référer à l’appel et au contrat actuels.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "audit_modules_detail",
+    "type": "info",
+    "question": "Détail du parcours Skool décrit par TrustWho",
+    "aliases": [
+      "liste des 8 modules",
+      "programme détaillé audit",
+      "modules skool"
+    ],
+    "keywords": [
+      "skool",
+      "huit modules",
+      "bienvenue",
+      "positionnement",
+      "modules"
+    ],
+    "answer": "Dans la version examinée par TrustWho en août 2026, les huit modules observés étaient : Bienvenue ; Positionnement ; Contenu viral qui vend ; Setting et closing ; Satisfaction client ; Interventions clients ; Mindset ; Fiscalité. Le premier module présentait Skool et Discord, le parcours d’onboarding et une première tâche. Le module Positionnement était découpé en étapes : appel de positionnement, domaine, avatar et produit. Il s’agit d’une photographie issue de l’audit et non d’une garantie que l’espace membre actuel est identique.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "audit_acces_duree",
+    "type": "info",
+    "question": "Durée et accès tels que décrits dans l’audit TrustWho",
+    "aliases": [
+      "accès 12 mois",
+      "accès à vie preuve",
+      "durée contrat audit"
+    ],
+    "keywords": [
+      "12 mois",
+      "accès",
+      "à vie",
+      "contrat"
+    ],
+    "answer": "TrustWho décrit un accès contractuel de 12 mois dans le contrat examiné en août 2026, tout en indiquant avoir observé que l’accès restait actif après un an. Il ne faut pas déduire de cette observation un engagement contractuel d’accès à vie. La durée opposable est celle du contrat actuellement proposé.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "audit_qualification",
+    "type": "info",
+    "question": "Points de vigilance identifiés dans l’audit",
+    "aliases": [
+      "technique de vente",
+      "pression commerciale",
+      "points de vigilance TrustWho",
+      "seuil d’intolérance"
+    ],
+    "keywords": [
+      "seuil intolérance",
+      "pression",
+      "closing call",
+      "audit éthique"
+    ],
+    "answer": "Le récapitulatif TrustWho relève comme points de vigilance : prix non affiché publiquement avant l’appel, conditions détaillées du contrat à vérifier avant signature, forte implication en temps et en énergie, et nécessité de solliciter activement les coachs pour obtenir du feedback. L’audit mentionne également une technique de « seuil d’intolérance » durant les appels de vente. Il est prudent de demander des réponses écrites à toutes les questions importantes, de lire le contrat et de ne pas s’engager si le budget est fragile.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_qui_est_mickael",
+    "type": "faq",
+    "question": "Qui est Mickaël Wu ?",
+    "aliases": [
+      "Quel est le parcours de Mickaël Wu ?",
+      "Qui est le formateur ?",
+      "Quelle est son expérience ?"
+    ],
+    "keywords": [
+      "mickael wu",
+      "formateur",
+      "parcours",
+      "expérience",
+      "créateur contenu"
+    ],
+    "answer": "Mickaël Wu est la personne mise en avant par MW Business. La page officielle présente son accompagnement et précise qu’il intervient notamment dans les coachings de création de contenu avec le coach. Le rapport TrustWho décrit un parcours de création de contenu commencé en 2015, avec une activité devenue rentable à partir de 2022. Pour découvrir sa présentation, consultez https://www.mickaelwu.com/ .",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_emploi",
+    "type": "faq",
+    "question": "La formation garantit-elle un emploi ou des clients ?",
+    "aliases": [
+      "Avez-vous une garantie d’emploi ?",
+      "Vais-je trouver des clients ?",
+      "Est-ce que vous me donnez des clients ?",
+      "Insertion professionnelle"
+    ],
+    "keywords": [
+      "emploi",
+      "clients garantis",
+      "prospects garantis",
+      "travail",
+      "revenu garanti"
+    ],
+    "answer": "Non. La page officielle ne promet ni emploi, ni nombre de clients, ni revenu garanti. L’accompagnement vise à développer des compétences et une activité autour du contenu, du positionnement et de la vente. Les résultats dépendent de l’exécution, de l’expérience, du marché et de nombreux facteurs personnels.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_fiche_contrat",
+    "type": "faq",
+    "question": "Quels documents demander avant de signer ?",
+    "aliases": [
+      "Que dois-je vérifier avant de payer ?",
+      "Quels documents lire ?",
+      "Comment éviter les mauvaises surprises ?"
+    ],
+    "keywords": [
+      "contrat",
+      "documents",
+      "prix total",
+      "garantie",
+      "résiliation",
+      "rétractation"
+    ],
+    "answer": "Avant toute signature, demandez le contrat complet et vérifiez au minimum : l’identité de la société contractante, le prix total TTC, l’échéancier, la durée de l’accès, le périmètre des coachings et du support, les conditions exactes de garantie et de remboursement, les règles de résiliation et le droit de rétractation. La page officielle indique que les conditions de garantie sont présentées avant signature ; prenez le temps de les lire et demandez une copie.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_nombre_membres",
+    "type": "faq",
+    "question": "Combien de membres ont suivi MW Business ?",
+    "aliases": [
+      "Combien d’élèves avez-vous ?",
+      "Combien de personnes sont inscrites ?",
+      "Combien de membres dans la communauté ?"
+    ],
+    "keywords": [
+      "nombre élèves",
+      "membres",
+      "inscrits",
+      "1000",
+      "mille"
+    ],
+    "answer": "Le rapport TrustWho indique environ 1 000 élèves vérifiés dans sa fiche produit lors de l’audit publié en août 2026. Ce chiffre est une donnée datée de l’audit, pas un compteur d’inscriptions en temps réel ni une garantie de résultats. La page officielle ne publie pas de nombre actuel de membres.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_sondage_eleves",
+    "type": "faq",
+    "question": "Que disent les retours d’élèves recueillis par TrustWho ?",
+    "aliases": [
+      "Quels avis ont été collectés ?",
+      "Les élèves sont-ils satisfaits ?",
+      "Que montre le sondage TrustWho ?"
+    ],
+    "keywords": [
+      "sondage",
+      "satisfaction",
+      "avis élèves",
+      "66 réponses",
+      "questionnaire",
+      "retours"
+    ],
+    "answer": "Dans le questionnaire rapporté par TrustWho, 66 élèves ont répondu : 51 (77 %) ont qualifié l’accompagnement d’excellent, 14 (21 %) de bon et 1 (2 %) de moyen. 56 personnes (85 %) indiquaient avoir toujours obtenu une réponse lorsqu’elles en avaient besoin, les autres généralement. Il s’agit d’un échantillon de répondants et non d’une enquête exhaustive sur tous les membres ; ces chiffres ne garantissent pas votre expérience personnelle.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  },
+  {
+    "id": "faq_faire_a_ma_place",
+    "type": "faq",
+    "question": "Est-ce que le coach fait le travail à ma place ?",
+    "aliases": [
+      "Le coach va-t-il trouver mes clients pour moi ?",
+      "Est-ce que vous créez les vidéos à ma place ?",
+      "Vous gérez mon business ?",
+      "Est-ce que le coach exécute les actions ?"
+    ],
+    "keywords": [
+      "à ma place",
+      "faire le travail",
+      "trouver clients",
+      "publier",
+      "exécuter",
+      "coach"
+    ],
+    "answer": "Non, la page présente un accompagnement qui vous aide à savoir quoi faire et à appliquer les actions : positionnement, contenu, scripts, entraînement à la vente et suivi. Le coach vous guide, vous fait des retours et vous relance, mais la mise en œuvre et la régularité restent de votre responsabilité. Le site ne promet pas que l’équipe créera vos contenus ou trouvera automatiquement vos clients à votre place.",
+    "source": "Page officielle Mickaël Wu — https://www.mickaelwu.com/",
+    "source_kind": "official"
+  },
+  {
+    "id": "faq_emploi_salarie",
+    "type": "faq",
+    "question": "Puis-je suivre l’accompagnement tout en gardant mon emploi salarié ?",
+    "aliases": [
+      "Je travaille à temps plein, est-ce compatible ?",
+      "Puis-je garder mon CDI ?",
+      "Peut-on faire cela après le travail ?",
+      "Je suis salarié, c’est possible ?"
+    ],
+    "keywords": [
+      "salarié",
+      "emploi",
+      "cdI",
+      "temps plein",
+      "travail à côté",
+      "après le travail",
+      "disponibilité"
+    ],
+    "answer": "La page officielle indique que les membres consacrent entre 1 et 5 heures par jour et que le coach adapte le rythme à votre emploi du temps. Cela ne permet pas de garantir que le programme sera compatible avec toutes les situations. Le rapport TrustWho souligne que l’accompagnement demande une implication régulière et peut ne pas convenir à une personne déjà épanouie dans son emploi et sans envie réelle de changer de situation. Évaluez honnêtement votre motivation et vos disponibilités avant de réserver.",
+    "source": "Rapport public TrustWho sur Mickael Wu Business — publié le 6 août 2026 et consulté le 23 novembre 2026 — https://rapport.trustwho.io/rapport/mickael-wu-business",
+    "source_kind": "independent_audit"
+  }
+]

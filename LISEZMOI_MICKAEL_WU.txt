@@ -1,0 +1,26 @@
+# Chatbot MW Business — Mickaël Wu
+
+## Contenu du pack
+- `assistant_mickaelwu.py` : application Streamlit, moteur Gemini + recherche sémantique, recherche directe des FAQ, historique, suggestions et interface.
+- `base_connaissances_mickaelwu.json` : base structurée contenant 74 entrées FAQ et informations, avec séparation explicite entre informations officielles et éléments datés du rapport TrustWho.
+- `requirements.txt` : dépendances Python.
+- `SOURCES_ET_LIMITES.txt` : sources consultées, distinction des informations et limites connues.
+
+## Installation locale
+1. Extraire tous les fichiers dans le même dossier.
+2. Créer un environnement virtuel puis installer les dépendances :
+   `python -m pip install -r requirements.txt`
+3. Définir `GOOGLE_API_KEY` dans l'environnement ou dans les Secrets Streamlit.
+4. Lancer : `streamlit run assistant_mickaelwu.py`
+5. Facultatif : ajouter `logo_mickael_wu.png` dans le même dossier pour remplacer l'icône de secours.
+
+## Déploiement Streamlit Cloud
+- Déposer `assistant_mickaelwu.py`, `base_connaissances_mickaelwu.json` et `requirements.txt` dans le dépôt GitHub.
+- Définir `assistant_mickaelwu.py` comme fichier principal.
+- Ajouter `GOOGLE_API_KEY` dans App settings → Secrets.
+- Redémarrer l'application.
+
+## Point important sur les données
+La page officielle ne publie pas le prix, et dit que les conditions de garantie sont présentées pendant l'appel avant signature. Certaines fiches de la base citent le rapport TrustWho publié en août 2026 : ces informations sont étiquetées comme audit tiers historique et ne doivent pas être prises pour les conditions commerciales actuelles. Le contrat actuellement proposé fait foi.
+
+Le chatbot ne réserve pas de rendez-vous, ne vérifie pas les disponibilités, ne garantit aucun revenu, ne prend aucune décision commerciale et ne remplace pas la lecture du contrat.
