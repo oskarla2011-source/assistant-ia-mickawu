@@ -11,6 +11,12 @@ from typing import Any
 
 import streamlit as st
 from PIL import Image
+import importlib.util
+import sys
+
+print("Python :", sys.version)
+print("google :", importlib.util.find_spec("google"))
+print("google.genai :", importlib.util.find_spec("google.genai"))
 from google import genai
 from sentence_transformers import SentenceTransformer, util
 
